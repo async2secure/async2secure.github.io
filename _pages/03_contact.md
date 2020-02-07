@@ -17,4 +17,4 @@ permalink: /contact/
 ## Any questions? Comments?
 
 
-Get in touch with us by email: [contact@async2secure.com](mailto:contact@async2secure.com).
+Get in touch with us by email: [async2secure@gmail.com](mailto:async2secure@gmail.com).
