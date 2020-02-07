@@ -15,7 +15,7 @@ body {
     line-height: 1.5;
   }
   h1 {
-    color: $main;
+    color: #B39DDB;
     font-size: 2.5em;
     a,
     a:visited {
@@ -161,11 +161,12 @@ content {
   padding-left: 0;
 }
 
-// .navbar .navbar-brand {
-//   font-size: 50px;
-//   font-family: 'Righteous', cursive;
-//   color: #80c846;
-// }
+.navbar .navbar-brand {
+  font-size: 35px;
+  font-family: 'Vollkorn', serif;
+  color:$main;
+  text-decoration: none;
+}
 
 .body-container {
   /* background-color: #CCC;
