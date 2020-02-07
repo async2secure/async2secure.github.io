@@ -5,10 +5,14 @@
   <body>
     {% include header.html %}
     <main>
+      <div id="page-container">
+      <div id="content-wrap">
       <article>
         {{ content }}
+        {% include footer.html %}
       </article>
-      {% include footer.html %}
+    </div>
+    </div>
     </main>
   </body>
 </html>
