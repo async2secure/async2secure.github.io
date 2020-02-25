@@ -1,18 +1,50 @@
-<aside>
-	<div class="container">
-        <div class="body-content">
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand" href="/"><font size="5">Async</font> <font size="8">2</font> <font size="5">Secure</font></a>
-        
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto">
+<div class="body-content">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="/"><font size="5">Async</font> <font size="8">2</font> <font size="5">Secure</font></a>
 
-                        <li><a href="/">Home</a></li> 
-                        {% for page in site.pages %} {% if page.title %}
-                        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-                        {% endif %} {% endfor %}
-                    </ul>
-                </div>
-            </nav>
-	</div>
-</aside>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Home </a>
+                    <div class="underline"></div>
+                </li>
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Challenges </a>
+                    <div class="underline"></div>
+                </li>
+
+                <li class="dropdown">
+                    <a href="/">Products</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Security Design IPs</a>
+                        <a class="dropdown-item" href="#">Design & Evaluation Tools</a>
+                        <a class="dropdown-item" href="#">Design & Evaluation Services</a>
+                    </div>
+
+                </li>
+
+                <li class="dropdown">
+                    <a href="/">Technology</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Asynchronous-Logic</a>
+                        <a class="dropdown-item" href="#">Dual-Hiding/Masking</a>
+                        <a class="dropdown-item" href="#">Camouflage IC</a>
+                        <a class="dropdown-item" href="#">Filter Bank</a>
+                    </div>
+
+                </li>
+
+                <li class="dropdown">
+                    <a href="/">About</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Leadership</a>
+                        <a class="dropdown-item" href="#">Contact</a>
+                    </div>
+
+                </li>
+
+            </ul>
+        </div>
+    </nav>
