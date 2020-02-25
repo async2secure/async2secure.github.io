@@ -210,3 +210,7 @@ content {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+  margin-top: 0;
+}
