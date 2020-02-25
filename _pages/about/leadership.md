@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /leadership/
+permalink: /about/leadership
 ---
 
 
@@ -41,6 +41,8 @@ Defence Technology Prize in 2016. He was an IEEE Distinguished Lecture for Circu
 Systems Society in 2009-2010 and in 2017-2018.
 
 <br>
+
+![alt text](/assets/dr-chong.jpeg "Logo Title Text 1")
 
 Dr Kwen-Siong Chong (S’03-M’09-SM’13) received the B.Eng., M.Phil. And Ph.D. degrees in
 electrical and electronic engineering from Nanyang Technological University (NTU),

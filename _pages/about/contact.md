@@ -1,7 +1,7 @@
 ---
 
 layout: page
-permalink: /contact/
+permalink: /about/contact
 ---
 
 
@@ -15,10 +15,6 @@ permalink: /contact/
 </div>
 
 ## Technical Contacts
-
-<!-- <ul>
-  <li>Prof Gwee Bah Hwee <br> Email: ebhgwee@gmail.com</li>
-</ul> -->
 
 
 - Prof Gwee Bah Hwee <br>
