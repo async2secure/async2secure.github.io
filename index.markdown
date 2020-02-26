@@ -6,38 +6,48 @@ layout: home
 ---
 
 <div>
-    <content>
-    </content>
+<content>
+</content>
 </div>
 <div>
-    <content>
-    </content>
+<content>
+</content>
 </div>
+            <br>
 
 <br>
-<br>
-
 <section id="content">
 
     <section id="content">
         <div class="container">
             <p class="text-center">In general, Integrated Circuits are facing hardware attacks</p>
-            <!-- <p>In general, Integrated Circuits are facing hardware attacks</p> -->
             <div class="row">
                 <div class="col-sm ">
                     <img class="mx-auto d-block" src="/assets/home/side_channel_attacks.png" style="width:105px;height:105px;">
                     <p class="text-center">Side Channel Attacks</p>
+                            <hr class="new5">
                 </div>
                 <div class="col-sm ">
                     <img class="mx-auto d-block" src="/assets/home/semi_invasive_attacks.png" style="width:105px;height:105px;">
                     <p class="text-center">Semi-Invasive Attacks</p>
+                            <hr class="new5">
                 </div>
                 <div class="col-sm ">
                     <img class="mx-auto d-block" src="/assets/home/reverse_engineering.png" style="width:105px;height:105px;">
                     <p class="text-center">Reverse Engineering</p>
+                      <hr class="new5">
                 </div>
+
             </div>
-            <p class="text-center">To mitigate/evaluate these hardware attacks, we offer customer-oriented products/services</p>
+
+            <br>
+
+<br>
+            <p class="text-center">To mitigate/evaluate these hardware attacks
+            
+            <h3 class="text-center"> we offer customer-oriented products/services</h3>
+             </p>
+
             <div class="row">
 
                 <div class="col-sm">
@@ -62,10 +72,10 @@ layout: home
                         <p class="text-center"> Design & Evaluation Services</p>
                     </a>
                 </div>
-
             </div>
-            <p class="text-center">We had employed our patent-filed novel technology in our product/services</p>
-
+              <hr class="new1">
+                          <p class="text-center">We had employed</p>
+            <h3 class="text-center">our patent-filed novel technology</h3>
             <div class="row">
 
                 <div class="col-sm">
@@ -96,8 +106,10 @@ layout: home
                 </div>
 
             </div>
-            <p class="text-center">We are a research team having strong experiences in IC design and Hardware Security</p>
 
+              <hr class="new2">
+            <p class="text-center">We are a research team strong experiences in</p>
+            <h3 class="text-center">IC design and Hardware Security</h3>
             <div class="row">
 
                 <div class="col-sm">
@@ -123,4 +135,7 @@ layout: home
             </div>
         </div>
 
+    <br>
+
+<br>
     </section>
