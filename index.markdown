@@ -108,7 +108,7 @@ layout: home
                 </div>
 
                 <div class="col-sm">
-                    <a href="{{ site.baseurl }}{% link _pages/about/contact.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/about/opportunities.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/opportunities.png" style="width:105px;height:105px;transform:rotate(180deg);">
                         <p class="text-center"> Opportunities</p>
                     </a>
