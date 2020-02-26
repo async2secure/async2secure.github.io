@@ -3,7 +3,6 @@ layout: page
 permalink: /about/leadership
 ---
 
-
 <br>
 <br>
 <br>
@@ -12,6 +11,7 @@ permalink: /about/leadership
 ## Team Leaders
 
 <br>
+![alt text](/assets/about/leadership/image--096.jpg)
 
 Dr Bah-Hwee Gwee received his B.Eng degree from University of Aberdeen, UK, in 1990. He
 received his MEng and PhD degrees from Nanyang Technological University in 1992 and 1998
@@ -42,7 +42,7 @@ Systems Society in 2009-2010 and in 2017-2018.
 
 <br>
 
-![alt text](/assets/dr-chong.jpeg "Logo Title Text 1")
+![alt text](/assets/about/leadership/image--103.jpg)
 
 Dr Kwen-Siong Chong (S’03-M’09-SM’13) received the B.Eng., M.Phil. And Ph.D. degrees in
 electrical and electronic engineering from Nanyang Technological University (NTU),
