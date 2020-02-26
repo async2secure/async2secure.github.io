@@ -273,3 +273,13 @@ a:focus::before {
 .link-block:hover .middle {
   opacity: 1;
 }
+
+.container {
+  padding: 0px;
+}
+
+nav.navbar {
+  width: inherit;
+  left: 50%;
+  transform: translateX(-50%);
+}

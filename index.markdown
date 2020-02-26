@@ -14,6 +14,9 @@ layout: home
     </content>
 </div>
 
+<br>
+<br>
+
 <section id="content">
 
     <section id="content">
