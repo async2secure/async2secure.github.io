@@ -22,7 +22,7 @@ protection for data encryption.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 <ul>
   <li>Dual-Hiding (+ Masking) for countering SCA</li>
   <li>Asynchronous-logic operation</li>
@@ -50,7 +50,7 @@ alike cell layout for high valued IP protection.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 
 <ul>
   <li>Patented library cells</li>

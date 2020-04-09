@@ -22,7 +22,7 @@ with high SCA resistance based on customer-defined specifications/applications.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 <ul>
   <li>Asynchronous-Logic Design Flow</li>
   <li>Enhanced reliability and security for Ics</li>
@@ -50,7 +50,7 @@ engineering based on customer-defined specifications/applications.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 
 <ul>
   <li>Invulnerable against IC delayering</li>

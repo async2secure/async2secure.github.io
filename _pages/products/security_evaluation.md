@@ -20,7 +20,7 @@ DES, ECC, PRESENT, SHA etc.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 <ul>
   <li>Power/EM attack analysis</li>
   <li>Various power models</li>

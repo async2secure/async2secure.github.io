@@ -20,7 +20,7 @@ Evaluation Tool</u> so that the AES designers could improve the security level o
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 <ul>
   <li>Applicable to simulation and/or measurement evaluations</li>
   <li>Built-in attacking points (all rounds for AES)</li>
@@ -51,7 +51,7 @@ camouflaged netlist.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 
 <ul>
   <li>Easy to use steps-by-steps flow</li>
@@ -82,7 +82,7 @@ logic Design Tool</u> with high compatibility of standard design flow.
 
         <div class="col">
 
-<h3 id="key-features">Key features</h3>
+<p><strong>Key Features</strong></p>
 
 <ul>
   <li>Self-timed operation</li>
