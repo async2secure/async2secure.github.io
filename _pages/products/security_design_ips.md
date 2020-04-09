@@ -34,7 +34,7 @@ protection for data encryption.
 
         </div>
         <div class="col-sm-auto">
-        <img class="mx-auto d-block" src="/assets/products/security_ip/image--002.png" style="width:200px;height:200px;">
+        <img class="mx-auto d-block" src="/assets/products/security_ip/image--002.png" style="width:150px;height:150px;">
         </div>
 
     </div>
@@ -62,7 +62,7 @@ alike cell layout for high valued IP protection.
 
         </div>
         <div class="col-sm-auto">
-        <img class="mx-auto d-block" src="/assets/products/security_ip/image--003.png" style="width:200px;height:200px;">
+        <img class="mx-auto d-block" src="/assets/products/security_ip/image--003.png" style="width:150px;height:150px;">
         </div>
 
     </div>
