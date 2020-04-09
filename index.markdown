@@ -13,8 +13,6 @@ layout: home
 <content>
 </content>
 </div>
-            <br>
-
 <br>
 <section id="content">
 
