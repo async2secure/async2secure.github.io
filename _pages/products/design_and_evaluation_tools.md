@@ -15,12 +15,6 @@ permalink: /products/design_and_evaluation_tools
 To provide efficient evaluation for AES simulation/measurement, we offer an user-friendly <u>SCA
 Evaluation Tool</u> so that the AES designers could improve the security level of their designs.
 
-- Self-timed operation
-- Applicable to FPGA/ASIC
-- User-friendly GUI
-- Optimization for power/area/speed
-- Compatible with standard EDA tools
-
 <div class="container">
     <div class="row">
 
