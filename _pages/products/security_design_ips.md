@@ -12,52 +12,59 @@ permalink: /products/security_design_ips
     </content>
 </div>
 
-## Security Design IPs
+To mitigate the Side-Channel Attacks on ASICs and FPGAs, we offer <u>SCA-Resistant AES design
+IP</u> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption.
+We also offer AES design with additional masking countermeasures that provide added SCA
+protection for data encryption.
 
+<div class="container">
+    <div class="row">
+
+        <div class="col">
+
+<h3 id="key-features">Key features</h3>
+<ul>
+  <li>Dual-Hiding (+ Masking) for countering SCA</li>
+  <li>Asynchronous-logic operation</li>
+  <li>Synchronized Interfacing (output available)</li>
+  <li>Inherently resistant to fault attack + reverse engineering</li>
+  <li>FPGA/ASIC implementation (soft IP and hard IP)</li>
+  <li>Test data available</li>
+</ul>
+
+        </div>
+        <div class="col-sm-auto">
+        <img class="mx-auto d-block" src="/assets/products/security_ip/image--002.png" style="width:200px;height:200px;">
+        </div>
+
+    </div>
+
+</div>
 <br>
-
-### (1) SCA-Resistant AES (FPGA or ASIC)
+<br>
+To mitigate the Reverse Engineering on ASICs, we offer <u>Camouflage Library Cells</u> with look-
+alike cell layout for high valued IP protection.
 
 <div class="container">
     <div class="row">
 
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/security_ip/image--035.png" width="80%" height="80%">
+        <div class="col">
+
+<h3 id="key-features">Key features</h3>
+
+<ul>
+  <li>Patented library cells</li>
+  <li>Invulnerable against IC delayering</li>
+  <li>Applicable to any CMOS process</li>
+  <li>Compatible to standard design flow</li>
+  <li>Low power, area, speed overheads</li>
+</ul>
+
         </div>
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/security_ip/image--036.png" width="80%" height="80%">
+        <div class="col-sm-auto">
+        <img class="mx-auto d-block" src="/assets/products/security_ip/image--003.png" style="width:200px;height:200px;">
         </div>
 
     </div>
 
 </div>
-
-SCA-Resistant AES design with dual-hiding and asynchronous-logic countermeasures provides basic SCA protection for data encryption
-
-### (2) SCA-Resistant Masked AES (FPGA or ASIC)
-
-<div class="container">
-    <div class="row">
-
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/security_ip/image--037.png" width="80%" height="80%">
-        </div>
-    </div>
-
-</div>
-
-SCA-Resistant Masked AES design with dual-hiding, asynchronous-logic and additional masking countermeasures provides added SCA protection for data encryption
-
-### (3) ASIC Camouflage Library Cells
-
-<div class="container">
-    <div class="row">
-
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/security_ip/rsz_image--034.png" width="80%" height="80%">
-        </div>
-    </div>
-
-</div>
-
-ASIC Camouflage Library Cells with look-alike cell layout provide high resistance to reverse engineering for IP protection
