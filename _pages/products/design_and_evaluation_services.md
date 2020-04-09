@@ -12,53 +12,59 @@ permalink: /products/design_and_evaluation_services
 </content>
 </div>
 
-## Design & Evaluation Services
-
-### (1) Customized AES Design
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/services/image--054.png" width="80%" height="80%">
-        </div>
-    </div>
-</div>
-
-We provide design services for Customized AES with high SCA resistance based on
-customer-defined specifications/applications
-
-### (2) Other Value Added Ciphers
+We provide design services for <u>Customized AES</u> with high SCA resistance based on customer-
+defined specifications/applications.
+We also provide design services for <u>Other Value Added Ciphers</u> (e.g. ECC, PRESENT, SHA, etc.)
+with high SCA resistance based on customer-defined specifications/applications.
 
 <div class="container">
     <div class="row">
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/services/rsz_image--057.png" width="80%" height="80%">
+
+        <div class="col">
+
+<h3 id="key-features">Key features</h3>
+<ul>
+  <li>Asynchronous-Logic Design Flow</li>
+  <li>Enhanced reliability and security for Ics</li>
+  <li>Self-timed operation</li>
+  <li>Added values to reverse engineering and fault injections</li>
+  <li>Applicable to FPGA/ASIC</li>
+</ul>
+
         </div>
+        <div class="col-sm-auto">
+                <img class="mx-auto d-block image" src="/assets/home/design_evaluation_sevices.png" style="width:150px;height:150px;">
+
+        </div>
+
     </div>
+
 </div>
-
-We provide design services for Other Value Added Ciphers (e.g. ECC, PRESENT, SHA, etc.)
-with high SCA resistance based on customer-defined specifications/applications
-
-### (3) Camouflage Design Solutions
+<br>
+<br>
+We provide <u>Camouflage Design Solutions</u> for camouflaged IC with high resistance to reverse
+engineering based on customer-defined specifications/applications.
 
 <div class="container">
     <div class="row">
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/services/rsz_image--056.png" width="80%" height="80%">
-        </div>
-    </div>
-</div>
-We provide Camouflage Design Solutions for camouflaged IC with high resistance to reverse
-engineering based on customer-defined specifications/applications
 
-### (4) SCA Evaluation Services
+        <div class="col">
 
-<div class="container">
-    <div class="row">
-        <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/products/services/rsz_image--055.png" width="80%" height="80%">
+<h3 id="key-features">Key features</h3>
+
+<ul>
+  <li>Invulnerable against IC delayering</li>
+  <li>Invulnerable against extraction of IC netlist</li>
+  <li>Short duration of deliverables</li>
+  <li>Patented library cells</li>
+  <li>Comprehensive analysis report</li>
+  <li>Technical consultation</li>
+</ul>
+
         </div>
+        <div class="col-sm-auto">
+               <img class="mx-auto d-block" src="/assets/home/reverse_engineering.png" style="width:150px;height:150px;">        </div>
+
     </div>
+
 </div>
-We provide SCA Evaluation Services to qualify the security level of the test ciphers
