@@ -77,27 +77,27 @@ layout: home
             <div class="row">
 
                 <div class="col-sm">
-                    <a href="{{ site.baseurl }}{% link _pages/technology/asynchronous_logic.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/resources/asynchronous_logic.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/asynchronous_logic.png" style="width:105px;height:105px;transform:rotate(180deg);">
                         <p class="text-center"> Asynchronous Logic</p>
                     </a>
                 </div>
                 <div class="col-sm ">
-                    <a href="{{ site.baseurl }}{% link _pages/technology/dual_hiding_masking.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/resources/dual_hiding_masking.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/dual_hiding_masking.png" style="width:105px;height:105px;transform:rotate(180deg);">
                         <p class="text-center"> Dual-Hiding/Masking</p>
                     </a>
                 </div>
 
                 <div class="col-sm ">
-                    <a href="{{ site.baseurl }}{% link _pages/technology/camouflage_ic.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/resources/camouflage_ic.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/camouflage_ic.png" style="width:105px;height:105px;transform;">
                         <p class="text-center"> Camouflage IC</p>
                     </a>
                 </div>
 
                 <div class="col-sm ">
-                    <a href="{{ site.baseurl }}{% link _pages/technology/filter_bank.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/resources/other_research.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/filter_bank.png" style="width:105px;height:105px;transform:rotate(180deg);">
                         <p class="text-center"> Filter Bank</p>
                     </a>
