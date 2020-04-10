@@ -12,9 +12,9 @@ permalink: /products/design_and_evaluation_services
 </content>
 </div>
 
-We provide design services for <u>Customized AES</u> with high SCA resistance based on customer-
+We provide design services for <strong>Customized AES</strong> with high SCA resistance based on customer-
 defined specifications/applications.
-We also provide design services for <u>Other Value Added Ciphers</u> (e.g. ECC, PRESENT, SHA, etc.)
+We also provide design services for <strong>Other Value Added Ciphers</strong> (e.g. ECC, PRESENT, SHA, etc.)
 with high SCA resistance based on customer-defined specifications/applications.
 
 <div class="container">
@@ -22,7 +22,7 @@ with high SCA resistance based on customer-defined specifications/applications.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 <ul>
   <li>Asynchronous-Logic Design Flow</li>
   <li>Enhanced reliability and security for Ics</li>
@@ -41,8 +41,9 @@ with high SCA resistance based on customer-defined specifications/applications.
 
 </div>
 <br>
+<hr class="seperator">
 <br>
-We provide <u>Camouflage Design Solutions</u> for camouflaged IC with high resistance to reverse
+We provide <strong>Camouflage Design Solutions</strong> for camouflaged IC with high resistance to reverse
 engineering based on customer-defined specifications/applications.
 
 <div class="container">
@@ -50,7 +51,7 @@ engineering based on customer-defined specifications/applications.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 
 <ul>
   <li>Invulnerable against IC delayering</li>

@@ -12,7 +12,7 @@ permalink: /services/evaluation
     </content>
 </div>
 
-We provide <u>SCA Evaluation Services</u> to qualify the security level of the test ciphers, e.g. AES,
+We provide <strong>SCA Evaluation Services</strong> to qualify the security level of the test ciphers, e.g. AES,
 DES, ECC, PRESENT, SHA etc.
 
 <div class="container">
@@ -20,7 +20,7 @@ DES, ECC, PRESENT, SHA etc.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 <ul>
   <li>Power/EM attack analysis</li>
   <li>Various power models</li>

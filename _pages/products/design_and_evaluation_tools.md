@@ -12,15 +12,15 @@ permalink: /products/design_and_evaluation_tools
 </content>
 </div>
 
-To provide efficient evaluation for AES simulation/measurement, we offer an user-friendly <u>SCA
-Evaluation Tool</u> so that the AES designers could improve the security level of their designs.
+To provide efficient evaluation for AES simulation/measurement, we offer an user-friendly <strong>SCA
+Evaluation Tool</strong> so that the AES designers could improve the security level of their designs.
 
 <div class="container">
     <div class="row">
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 <ul>
   <li>Applicable to simulation and/or measurement evaluations</li>
   <li>Built-in attacking points (all rounds for AES)</li>
@@ -40,9 +40,10 @@ Evaluation Tool</u> so that the AES designers could improve the security level o
 
 </div>
 <br>
+<hr class="seperator">
 <br>
 
-To mitigate the Reverse Engineering on ASICs, we offer <u>Camouflage Design/Analysis Tool</u> to
+To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Design/Analysis Tool</strong> to
 provide camouflage cells replacement in netlist level and to analyse the security level of
 camouflaged netlist.
 
@@ -51,7 +52,7 @@ camouflaged netlist.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 
 <ul>
   <li>Easy to use steps-by-steps flow</li>
@@ -72,17 +73,18 @@ camouflaged netlist.
 </div>
 
 <br>
+<hr class="seperator">
 <br>
 
-To provide the design solution for asynchronous-logic in netlist level, we offer <u>Asynchronous-
-logic Design Tool</u> with high compatibility of standard design flow.
+To provide the design solution for asynchronous-logic in netlist level, we offer <strong>Asynchronous-
+logic Design Tool</strong> with high compatibility of standard design flow.
 
 <div class="container">
     <div class="row">
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 
 <ul>
   <li>Self-timed operation</li>

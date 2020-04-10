@@ -12,8 +12,8 @@ permalink: /products/security_design_ips
     </content>
 </div>
 
-To mitigate the Side-Channel Attacks on ASICs and FPGAs, we offer <u>SCA-Resistant AES design
-IP</u> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption.
+To mitigate the Side-Channel Attacks on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design
+IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption.
 We also offer AES design with additional masking countermeasures that provide added SCA
 protection for data encryption.
 
@@ -22,7 +22,7 @@ protection for data encryption.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 <ul>
   <li>Dual-Hiding (+ Masking) for countering SCA</li>
   <li>Asynchronous-logic operation</li>
@@ -41,8 +41,9 @@ protection for data encryption.
 
 </div>
 <br>
+<hr class="seperator">
 <br>
-To mitigate the Reverse Engineering on ASICs, we offer <u>Camouflage Library Cells</u> with look-
+To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Library Cells</strong> with look-
 alike cell layout for high valued IP protection.
 
 <div class="container">
@@ -50,7 +51,7 @@ alike cell layout for high valued IP protection.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 
 <ul>
   <li>Patented library cells</li>
