@@ -77,7 +77,7 @@ layout: home
             <div class="row">
 
                 <div class="col-sm">
-                    <a href="{{ site.baseurl }}{% link _pages/resources/asynchronous_logic.md %}" class="link-block">
+                    <a href="{{ site.baseurl }}{% link _pages/resources/technology.md %}" class="link-block">
                         <img class="mx-auto d-block image" src="/assets/home/asynchronous_logic.png" style="width:105px;height:105px;transform:rotate(180deg);">
                         <p class="text-center"> Asynchronous Logic</p>
                     </a>
