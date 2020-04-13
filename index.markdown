@@ -70,6 +70,14 @@ layout: home
                         <p class="text-center"> Design & Evaluation Services</p>
                     </a>
                 </div>
+
+          <div class="col-sm">
+                    <a href="{{ site.baseurl }}{% link _pages/products/security_evaluation.md %}" class="link-block">
+                        <img class="mx-auto d-block image" src="/assets/home/side_channel_attacks.png" style="width:105px;height:105px;">
+                        <p class="text-center"> Security Evaluation</p>
+                    </a>
+                </div>
+
             </div>
               <hr class="new1">
                           <p class="text-center">We had employed</p>
