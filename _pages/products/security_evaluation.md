@@ -12,8 +12,13 @@ permalink: /services/evaluation
     </content>
 </div>
 
-We provide <strong>SCA Evaluation Services</strong> to qualify the security level of the test ciphers, e.g. AES,
-DES, ECC, PRESENT, SHA etc.
+# Security Evaluation
+
+<br>
+
+### (1) SCA Pre-Qualification on AES
+
+We provide <strong>SCA Evaluation Services</strong> to pre-qualify the security level of AES designs.
 
 <div class="container">
     <div class="row">
@@ -22,9 +27,10 @@ DES, ECC, PRESENT, SHA etc.
 
 <h4><strong>Key Features</strong></h4>
 <ul>
-  <li>Power/EM attack analysis</li>
+  <li>Test board development</li>
+  <li>Programming for test data</li>
+  <li>SCA attack analysis on power and/or EM</li>
   <li>Various power models</li>
-  <li>Short duration of deliverables</li>
   <li>Comprehensive analysis report</li>
   <li>Technical consultation</li>
 </ul>

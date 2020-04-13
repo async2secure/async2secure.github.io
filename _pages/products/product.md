@@ -55,7 +55,7 @@ Our Products & Services include:
 </div>
 
 <div class="col">
-    <a href="{{ site.baseurl }}{% link _pages/products/design_and_evaluation_services.md %}" class="link-block">
+    <a href="{{ site.baseurl }}{% link _pages/products/design_solution.md %}" class="link-block">
         <img class="mx-auto d-block image" src="/assets/home/design_evaluation_sevices.png" style="width:105px;height:105px;">
         <p class="text-center"> Design & Evaluation Services</p>
     </a>
