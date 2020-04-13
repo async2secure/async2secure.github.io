@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /products/design_and_evaluation_tools
+permalink: /products/tools
 ---
 
 <div>
@@ -12,8 +12,15 @@ permalink: /products/design_and_evaluation_tools
 </content>
 </div>
 
-To provide efficient evaluation for AES simulation/measurement, we offer an user-friendly <strong>SCA
-Evaluation Tool</strong> so that the AES designers could improve the security level of their designs.
+# Design and Analysis Tools
+
+<br>
+
+### (1) Side-Channel Attack (SCA) Evaluation Tool
+
+To provide efficient evaluations on Advanced Encryption Standard (AES) on the basis of
+simulations or measurements, we offer a user-friendly <strong>SCA Evaluation Tool</strong> for qualifying AES
+designs.
 
 <div class="container">
     <div class="row">
@@ -22,13 +29,15 @@ Evaluation Tool</strong> so that the AES designers could improve the security le
 
 <h4><strong>Key Features</strong></h4>
 <ul>
-  <li>Applicable to simulation and/or measurement evaluations</li>
+  <li>Applicable to simulation/measurement evaluations</li>
   <li>Built-in attacking points (all rounds for AES)</li>
-  <li>Built-in power/attacking models (HW/HD, DPA)</li>
-  <li>2 nd order SCA possible</li>
-  <li>Resynchronization possible</li>
-  <li>Easy of configuration</li>
-  <li>GUI based - simple</li>
+  <li>Built-in power/attacking models (Hamming Weight, Hamming Distance, Zero Model,
+Differential Power Analysis)</li>
+  <li>2nd order SCA (with pre-processing)</li>
+  <li>Waveform resynchronization</li>
+  <li>Configurable setting (for advanced analysis)</li>
+  <li>Graphical-user-interface (GUI) – easy for use</li>
+  <li>Technical support available</li>
 </ul>
 
         </div>
@@ -39,12 +48,13 @@ Evaluation Tool</strong> so that the AES designers could improve the security le
     </div>
 
 </div>
-<br>
 <hr class="seperator">
 <br>
 
-To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Design/Analysis Tool</strong> to
-provide camouflage cells replacement in netlist level and to analyse the security level of
+### (2) Camouflage Design/Analysis Tool
+
+To mitigate Reverse Engineering on ASICs, we offer <strong>Camouflage Design/Analysis Tool</strong> to
+provide camouflage cells replacement in a netlist and to analyse the security level of the
 camouflaged netlist.
 
 <div class="container">
@@ -55,12 +65,12 @@ camouflaged netlist.
 <h4><strong>Key Features</strong></h4>
 
 <ul>
-  <li>Easy to use steps-by-steps flow</li>
-  <li>Invulnerable against extraction of IC netlist</li>
-  <li>User-friendly GUI</li>
+  <li>Camouflaged netlist generation to prevent from netlist analysis</li>
+  <li>Simple design flow (compatible with commercial design flows)</li>
+  <li>Graphical-user-interface – easy for use</li>
   <li>Options for power/area/speed trade-offs</li>
   <li>Comprehensive analysis report</li>
-  <li>After-sale support</li>
+  <li>Technical support available</li>
 </ul>
 
         </div>
@@ -72,9 +82,10 @@ camouflaged netlist.
 
 </div>
 
-<br>
 <hr class="seperator">
 <br>
+
+### (3) Asynchronous-logic Design Tool
 
 To provide the design solution for asynchronous-logic in netlist level, we offer <strong>Asynchronous-
 logic Design Tool</strong> with high compatibility of standard design flow.
@@ -87,11 +98,11 @@ logic Design Tool</strong> with high compatibility of standard design flow.
 <h4><strong>Key Features</strong></h4>
 
 <ul>
-  <li>Self-timed operation</li>
+  <li>Single-rail to dual-rail conversion</li>
+  <li>Dual-rail logic implementation</li>
+  <li>Self-timed handshake operation</li>
   <li>Applicable to FPGA/ASIC</li>
-  <li>User-friendly GUI</li>
   <li>Optimization for power/area/speed</li>
-  <li>Compatible with standard EDA tools</li>
 </ul>
 
         </div>

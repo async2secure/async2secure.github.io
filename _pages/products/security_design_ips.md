@@ -14,6 +14,8 @@ permalink: /products/security_ips
 
 # Security IPs
 
+<br>
+
 ### (1) Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs
 
 To mitigate the Side-Channel Attacks on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design
