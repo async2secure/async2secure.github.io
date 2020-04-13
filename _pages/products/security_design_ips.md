@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /products/security_design_ips
+permalink: /products/security_ips
 ---
 
 <div>
@@ -11,6 +11,10 @@ permalink: /products/security_design_ips
     <content>
     </content>
 </div>
+
+# Security IPs
+
+### (1) Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs
 
 To mitigate the Side-Channel Attacks on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design
 IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption.
@@ -25,10 +29,10 @@ protection for data encryption.
 <h4><strong>Key Features</strong></h4>
 <ul>
   <li>Dual-Hiding (+ Masking) for countering SCA</li>
-  <li>Asynchronous-logic operation</li>
-  <li>Synchronized Interfacing (output available)</li>
+  <li>Inner asynchronous-logic operation</li>
+  <li>Global synchronous-logic interfacing</li>
   <li>Inherently resistant to fault attack + reverse engineering</li>
-  <li>FPGA/ASIC implementation (soft IP and hard IP)</li>
+  <li>FPGA/ASIC implementation (soft IP and/or hard IP available)</li>
   <li>Test data available</li>
 </ul>
 
@@ -40,9 +44,12 @@ protection for data encryption.
     </div>
 
 </div>
-<br>
+
 <hr class="seperator">
 <br>
+
+### (2) Reverse Engineering Resistant Camouflage Cells IPs
+
 To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Library Cells</strong> with look-
 alike cell layout for high valued IP protection.
 
@@ -54,11 +61,11 @@ alike cell layout for high valued IP protection.
 <h4><strong>Key Features</strong></h4>
 
 <ul>
-  <li>Patented library cells</li>
+  <li>Patent-pending camouflage cell technique</li>
   <li>Invulnerable against IC delayering</li>
-  <li>Applicable to any CMOS process</li>
-  <li>Compatible to standard design flow</li>
-  <li>Low power, area, speed overheads</li>
+  <li>Scalable to any CMOS process technology nodes</li>
+  <li>Compatible to standard IC design flows</li>
+  <li>Low power, area, speed overhead</li>
 </ul>
 
         </div>
