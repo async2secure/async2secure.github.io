@@ -18,7 +18,7 @@ permalink: /about/leadership
 
 <!-- ![alt text](/assets/about/leadership/image--096.jpg) -->
 
-He is currently an Associate Professor cum Assistant Chair (Outreach) in School of Electrical
+Dr Gwee is currently an Associate Professor cum Assistant Chair (Outreach) in School of Electrical
 and Electronics Engineering (EEE), Nanyang Technological University (NTU), Singapore.
 His research interests include machine learning, hardware security, image processing,
 asynchronous circuit design, Class-D amplifiers, digital signal processing.
@@ -30,7 +30,7 @@ asynchronous circuit design, Class-D amplifiers, digital signal processing.
 
 <strong>Kwen-Siong Chong, PhD</strong>
 
-He is presently a Senior Research Scientist with Temasek Laboratories @ NTU, Nanyang
+Dr Chong is presently a Senior Research Scientist with Temasek Laboratories @ NTU, Nanyang
 Technological University, Singapore.
 His research interests include hardware security, space-grade resilient circuits and systems,
 asynchronous VLSI designs, low-voltage low power VLSI circuits, and audio signal processing.
