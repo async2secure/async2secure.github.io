@@ -304,10 +304,25 @@ hr.new3 {
   border-radius: 2px;
 }
 
+hr.seperator {
+  border: 1px solid rgb(8, 143, 125);
+  border-radius: 2px;
+}
+
 u {
   text-decoration: underline;
+  color: rgb(8, 143, 125);
 }
 
 strong {
   color: rgb(8, 143, 125);
+}
+
+pre {
+  font-family: $font-style;
+  font-size: 1em;
+
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }

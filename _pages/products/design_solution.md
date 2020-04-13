@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /products/design_and_evaluation_services
+permalink: /services/design
 ---
 
 <div>
@@ -12,9 +12,15 @@ permalink: /products/design_and_evaluation_services
 </content>
 </div>
 
-We provide design services for <u>Customized AES</u> with high SCA resistance based on customer-
+# Design Solution
+
+<br>
+
+### (1) Customised Cipher Design Solutions
+
+We provide design services for <strong>Customized AES</strong> with high SCA resistance based on customer-
 defined specifications/applications.
-We also provide design services for <u>Other Value Added Ciphers</u> (e.g. ECC, PRESENT, SHA, etc.)
+We also provide design services for <strong>Other Value Added Ciphers</strong> (e.g. ECC, PRESENT, SHA, etc.)
 with high SCA resistance based on customer-defined specifications/applications.
 
 <div class="container">
@@ -22,13 +28,12 @@ with high SCA resistance based on customer-defined specifications/applications.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 <ul>
-  <li>Asynchronous-Logic Design Flow</li>
-  <li>Enhanced reliability and security for Ics</li>
-  <li>Self-timed operation</li>
+  <li>Asynchronous-logic design service</li>
+  <li>Enhanced reliability and security for ICs</li>
   <li>Added values to reverse engineering and fault injections</li>
-  <li>Applicable to FPGA/ASIC</li>
+  <li>Applicable to FPGA/ASICs</li>
 </ul>
 
         </div>
@@ -41,8 +46,12 @@ with high SCA resistance based on customer-defined specifications/applications.
 
 </div>
 <br>
+<hr class="seperator">
 <br>
-We provide <u>Camouflage Design Solutions</u> for camouflaged IC with high resistance to reverse
+
+### (2) Customised Camouflage IC Design Solutions
+
+We provide <strong>Camouflage Design Solutions</strong> for camouflaged IC with high resistance to reverse
 engineering based on customer-defined specifications/applications.
 
 <div class="container">
@@ -50,13 +59,13 @@ engineering based on customer-defined specifications/applications.
 
         <div class="col">
 
-<p><strong>Key Features</strong></p>
+<h4><strong>Key Features</strong></h4>
 
 <ul>
   <li>Invulnerable against IC delayering</li>
   <li>Invulnerable against extraction of IC netlist</li>
   <li>Short duration of deliverables</li>
-  <li>Patented library cells</li>
+  <li>Patent-pending camouflage cell technology</li>
   <li>Comprehensive analysis report</li>
   <li>Technical consultation</li>
 </ul>
