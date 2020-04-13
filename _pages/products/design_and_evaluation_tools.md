@@ -48,6 +48,7 @@ Differential Power Analysis)</li>
     </div>
 
 </div>
+<br>
 <hr class="seperator">
 <br>
 
@@ -82,6 +83,7 @@ camouflaged netlist.
 
 </div>
 
+<br>
 <hr class="seperator">
 <br>
 

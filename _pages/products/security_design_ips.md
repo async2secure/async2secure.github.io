@@ -47,6 +47,7 @@ protection for data encryption.
 
 </div>
 
+<br>
 <hr class="seperator">
 <br>
 

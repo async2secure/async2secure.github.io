@@ -45,7 +45,7 @@ with high SCA resistance based on customer-defined specifications/applications.
     </div>
 
 </div>
-
+<br>
 <hr class="seperator">
 <br>
 

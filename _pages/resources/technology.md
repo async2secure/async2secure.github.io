@@ -74,7 +74,7 @@ possible ‘best’ dual-hiding optimization.
 <div class="container">
     <div class="row">
         <div class="col-sm">
-            <img class="mx-auto d-block" src="/assets/technology/dual_hiding_masking/image--071.png" width="40%" >
+            <img class="mx-auto d-block" src="/assets/resources/technology/scr-04.png" width="40%" >
         </div>
     </div>
 </div>
