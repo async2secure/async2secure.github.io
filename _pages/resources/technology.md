@@ -48,7 +48,7 @@ click on the links to access the research publications of these works.
         </div>
                 <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/resources/technology/scr-011.png" width="80%" height="80%">
-             <p class="text-center"><a href="https://ieeexplore.ieee.org/document/8048019">64-Bit Adder</a></p>
+             <p class="text-center"><a href="https://ieeexplore.ieee.org/document/7516684">64-Bit Adder</a></p>
         </div>
                 <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/resources/technology/scr-022.png" width="80%" height="80%">
