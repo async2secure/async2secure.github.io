@@ -12,14 +12,13 @@ permalink: /resources/other_research
 </content>
 </div>
 
-Digital Hearing Aid Center has designed our products by employing the novel 16 channel
-critical band spaced <strong>Digital Filter Bank Design</strong> with natural hearing response proposed by Prof
-Bah Hwee Gwee and Prof Joseph Sylvester Chang from School of Electrical & Electronic
-Engineering, Nanyang Technological University, Singapore. Prof Gwee and Prof Chang are
-the digital hearing instrument experts which has invented many useful low-distortion (<THD+N:- 78dB) digital filter bank, low power (~60μW@1.1V) <strong>Class-D Amplifier</strong> and <strong>Digital Signal
-Processor</strong> circuits for practical digital hearing instrument. They currently own 3 US granted
-patents on circuit design. They have been the IEEE Distinguished Lecturers for IEEE Circuits
-and Systems Society.
+# Other Research
+
+Some of the earlier research works of the research team include a 16-channel digital filer bank
+design for hearing aid applications, low-distortion Class-D and digital signal processors. The
+research emphases are on low power and/or low noise implementations for portable
+electronics including hearing aids. For more information, please click on the links to access
+the research publications of these works.
 
 <div class="container">
     <div class="row">
