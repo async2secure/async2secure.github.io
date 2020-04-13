@@ -40,19 +40,19 @@ click on the links to access the research publications of these works.
     <div class="row">
         <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/technology/async_logics/rsz_image--043.png" width="80%" height="80%">
-            <p class="text-center">  <a href="#">Adaptive VDD System</a></p>
+            <p class="text-center">  <a href="https://ieeexplore.ieee.org/document/6373764">Adaptive VDD System</a></p>
         </div>
         <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/technology/async_logics/image--059.png" width="80%" height="80%">
-             <p class="text-center"><a href="#">Filter Bank</a></p>
+             <p class="text-center"><a href="https://ieeexplore.ieee.org/document/8048019">Filter Bank</a></p>
         </div>
                 <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/resources/technology/scr-011.png" width="80%" height="80%">
-             <p class="text-center"><a href="#">64-Bit Adder</a></p>
+             <p class="text-center"><a href="https://ieeexplore.ieee.org/document/8048019">64-Bit Adder</a></p>
         </div>
                 <div class="col-sm">
             <img class="mx-auto d-block" src="/assets/resources/technology/scr-022.png" width="80%" height="80%">
-             <p class="text-center"><a href="#">16-Bit NoC Router</a></p>
+             <p class="text-center"><a href="https://ieeexplore.ieee.org/document/8048019">16-Bit NoC Router</a></p>
         </div>
     </div>
 </div>
@@ -63,7 +63,7 @@ click on the links to access the research publications of these works.
 
 ### (2) Side-Channel Attack (SCA) Countermeasures on Dual-Hiding (+Masking)
 
-<strong>Async2Secure</strong> adopts <strong>Dual-Hiding + Masking</strong> approaches to achieve high SCA-resistance and
+<strong>Async2Secure</strong> adopts <a href="https://ieeexplore.ieee.org/document/8457238">Dual-Hiding + Masking</a>  approaches to achieve high SCA-resistance and
 yet low power/area overheads for cipher designs (including Advanced Encryption Standard
 (AES)). The primary enabler is in part to use asynchronous-logic to ‘hide’ or moderate the
 amplitude and timing information on the power or electromagnetic profiles. The conventional
