@@ -14,7 +14,7 @@ permalink: /about/contact
 
 For general enquiries,
 
-kindly email us: <u>async2secure@gmail.com</u>
+kindly email us: <u>contact@async2secure.com</u>
 
 For more information about our Products & Services,
 

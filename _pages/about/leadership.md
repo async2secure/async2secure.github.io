@@ -14,7 +14,7 @@ permalink: /about/leadership
 
 <img  src="/assets/about/leadership/image--096.jpg" style="height:150px;">
 
-<strong>Bah-Hwee Gwee</strong>
+<strong>Bah-Hwee Gwee, PhD</strong>
 
 <!-- ![alt text](/assets/about/leadership/image--096.jpg) -->
 
@@ -28,7 +28,7 @@ asynchronous circuit design, Class-D amplifiers, digital signal processing.
 
 <img  src="/assets/about/leadership/image--103.jpg" style="height:150px;">
 
-<strong>Kwen-Siong Chong</strong>
+<strong>Kwen-Siong Chong, PhD</strong>
 
 He is presently a Senior Research Scientist with Temasek Laboratories @ NTU, Nanyang
 Technological University, Singapore.
