@@ -36,40 +36,37 @@ permalink: /products/tools
 To perform efficient SCA evaluations on Advanced Encryption Standard (AES) designs on the basis of simulations or measurements, we offer a user-friendly <strong>SCA Evaluation Tool</strong>. FPGA evaluation boards are available for AES implementations and their SCA evaluations.
 
 <div class="col-sm-auto">
-<img class="mx-auto d-block" src="/assets/products/evaluation/sca_evaluation.jpeg" style="width:500px;">
+   <img class="mx-auto d-block" src="/assets/products/evaluation/sca_evaluation.jpeg" style="width:500px;">
 </div>
-
 <br>
-
 <div class="container">
-    <div class="row">
-
-        <div class="col">
-
-<h4><strong>Key Features</strong></h4>
-<ul>
-  <li>Graphical-User-Interface (GUI)</li>
-  <li>Ease of Us</li>
-  <li>Fast analysis and pre-qualification</li>
-  <li>Applicable to AES</li>
-  <li>Applicable to both simulation & measurement data</li>
-  <li>SCA for power and electromagnetic (EM) method</li>
-  <li>State-of-the art attacks – Correlation Power Analysis, Differential Power Analysis, and Machine Learning</li>
-  <li>Configurable points of attack</li>
-  <li>Configurable power models (Hamming Weight, Hamming Distance, Weight Model, Bit Model, Zero Model, etc.)</li>
-  <li>Trace management</li>
-  <li>Pre-analysing, pre-processing and digital signal processing features available</li>
-  <li>Data acquisition possibl</li>
-  <li>FPGA hardware evaluation board available</li>
-  <li>Technical support available</li>
-</ul>
-    </div>
-    </div>
+   <div class="row">
+      <div class="col">
+         <h4><strong>Key Features</strong></h4>
+         <ul>
+            <li>Graphical-User-Interface (GUI)</li>
+            <li>Ease of Us</li>
+            <li>Fast analysis and pre-qualification</li>
+            <li>Applicable to AES</li>
+            <li>Applicable to both simulation & measurement data</li>
+            <li>SCA for power and electromagnetic (EM) method</li>
+            <li>State-of-the art attacks – Correlation Power Analysis, Differential Power Analysis, and Machine Learning</li>
+            <li>Configurable points of attack</li>
+            <li>Configurable power models (Hamming Weight, Hamming Distance, Weight Model, Bit Model, Zero Model, etc.)</li>
+            <li>Trace management</li>
+            <li>Pre-analysing, pre-processing and digital signal processing features available</li>
+            <li>Data acquisition possibl</li>
+            <li>FPGA hardware evaluation board available</li>
+            <li>Technical support available</li>
+         </ul>
+      </div>
+   </div>
 </div>
 <br>
 <a id="second"></a>
 <hr class="seperator">
 <br>
+
 
 ### (2) Camouflage Design/Analysis Tool
 
@@ -78,27 +75,23 @@ provide camouflage cells replacement in a netlist and to analyse the security le
 camouflaged netlist.
 
 <div class="container">
-    <div class="row">
-
-        <div class="col">
-
-<h4><strong>Key Features</strong></h4>
-
-<ul>
-  <li>Camouflaged netlist generation to prevent from netlist analysis</li>
-  <li>Simple design flow (compatible with commercial design flows)</li>
-  <li>Graphical-user-interface – easy for use</li>
-  <li>Options for power/area/speed trade-offs</li>
-  <li>Comprehensive analysis report</li>
-  <li>Technical support available</li>
-</ul>
-        </div>
-    </div>
+   <div class="row">
+      <div class="col">
+         <h4><strong>Key Features</strong></h4>
+         <ul>
+            <li>Camouflaged netlist generation to prevent from netlist analysis</li>
+            <li>Simple design flow (compatible with commercial design flows)</li>
+            <li>Graphical-user-interface – easy for use</li>
+            <li>Options for power/area/speed trade-offs</li>
+            <li>Comprehensive analysis report</li>
+            <li>Technical support available</li>
+         </ul>
+      </div>
+   </div>
 </div>
 <a id="third"></a>
 <br>
 <hr class="seperator">
-
 <br>
 
 ### (3) Asynchronous-logic Design Tool
@@ -107,20 +100,16 @@ To provide the design solution for asynchronous-logic in netlist level, we offer
 logic Design Tool</strong> with high compatibility of standard design flow.
 
 <div class="container">
-    <div class="row">
-
-        <div class="col">
-
-<h4><strong>Key Features</strong></h4>
-
-<ul>
-  <li>Single-rail to dual-rail conversion</li>
-  <li>Dual-rail logic implementation</li>
-  <li>Self-timed handshake operation</li>
-  <li>Applicable to FPGA/ASIC</li>
-  <li>Optimization for power/area/speed</li>
-</ul>
-        </div>
-    </div>
-
+   <div class="row">
+      <div class="col">
+         <h4><strong>Key Features</strong></h4>
+         <ul>
+            <li>Single-rail to dual-rail conversion</li>
+            <li>Dual-rail logic implementation</li>
+            <li>Self-timed handshake operation</li>
+            <li>Applicable to FPGA/ASIC</li>
+            <li>Optimization for power/area/speed</li>
+         </ul>
+      </div>
+   </div>
 </div>
