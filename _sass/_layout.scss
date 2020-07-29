@@ -330,3 +330,15 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+a.brochure:link, a.brochure:visited {
+  color: #2379c8;
+  text-decoration: none;
+
+}
+
+a.brochure:hover, a.brochure:active {
+  color: rgb(13, 134, 134);
+}
+
+
