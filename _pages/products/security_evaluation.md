@@ -21,27 +21,19 @@ permalink: /services/evaluation
 We provide <strong>SCA Evaluation Services</strong> to pre-qualify the security level of AES designs.
 
 <div class="container">
-    <div class="row">
-
-        <div class="col">
-
-<h4><strong>Key Features</strong></h4>
-<ul>
-  <li>Test board development</li>
-  <li>Programming for test data</li>
-  <li>SCA attack analysis on power and/or EM</li>
-  <li>Various power models</li>
-  <li>Comprehensive analysis report</li>
-  <li>Technical consultation</li>
-</ul>
-
-        </div>
-        <div class="col-sm-auto">
-        <img class="mx-auto d-block" src="/assets/products/evaluation/image--009.png" style="width:150px;height:150px;">
-        </div>
-
-    </div>
-
+   <div class="row">
+      <div class="col">
+         <h4><strong>Key Features</strong></h4>
+         <ul>
+            <li>Test board development</li>
+            <li>Programming for test data</li>
+            <li>SCA attack analysis on power and/or EM</li>
+            <li>Various power models</li>
+            <li>Comprehensive analysis report</li>
+            <li>Technical consultation</li>
+         </ul>
+      </div>
+   </div>
 </div>
 <br>
 <br>
