@@ -21,12 +21,12 @@ permalink: /products/tools
 <a id="first"></a>
 
 <ul style="list-style-type:none; padding-left: 0;">
-  <li>(1) <a href="#first">Side-Channel Attack (SCA) Evaluation Tool & FPGA evaluation boards</a></li>
+  <li>(1) <a href="#first">Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards</a></li>
   <li>(2) <a href="#second">Camouflage Design/Analysis Tool</a></li>
   <li>(3) <a href="#third">Asynchronous-logic Design Tool</a></li>
 </ul>
 
-### (1) Side-Channel Attack (SCA) Evaluation Tool & FPGA evaluation boards
+### (1) Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards
 
 
 <br>
@@ -45,7 +45,7 @@ To perform efficient SCA evaluations on Advanced Encryption Standard (AES) desig
          <h4><strong>Key Features</strong></h4>
          <ul>
             <li>Graphical-User-Interface (GUI)</li>
-            <li>Ease of Us</li>
+            <li>Ease of Use</li>
             <li>Fast analysis and pre-qualification</li>
             <li>Applicable to AES</li>
             <li>Applicable to both simulation & measurement data</li>
@@ -55,15 +55,15 @@ To perform efficient SCA evaluations on Advanced Encryption Standard (AES) desig
             <li>Configurable power models (Hamming Weight, Hamming Distance, Weight Model, Bit Model, Zero Model, etc.)</li>
             <li>Trace management</li>
             <li>Pre-analysing, pre-processing and digital signal processing features available</li>
-            <li>Data acquisition possibl</li>
+            <li>Data acquisition possible</li>
             <li>FPGA hardware evaluation board available</li>
             <li>Technical support available</li>
          </ul>
       </div>
    </div>
 </div>
-<br>
 <a id="second"></a>
+<br>
 <hr class="seperator">
 <br>
 
