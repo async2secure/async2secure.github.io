@@ -16,48 +16,93 @@ permalink: /products/security_ips
 
 <br>
 <a id="first"></a>
+We offer two Security Design IPs as follows:
 <ul style="list-style-type:none; padding-left: 0;">
-  <li>(1) <a href="#first">Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</a></li>
-  <li>(2) <a href="#second">Reverse Engineering Resistant Camouflage Cells IPs</a></li>
+  <li>(1) <a class="link" href="#first">Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</a></li>
+  <li>(2) <a class="link" href="#second">Reverse Engineering Resistant Camouflage Cells IPs</a></li>
 </ul>
 <a id="first"></a>
-<h3>(1) Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</h3>
+
+<br>
+
+<h4 class="lnd_h4"> Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs </h4>
 
 To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.
 
-<div class="container">
-   <div class="row">
-      <div class="col">
-         <h4><strong>Key Features</strong></h4>
-         <ul>
-            <li>Dual-Hiding (+ Masking) countermeasure</li>
-            <li>Inner asynchronous-logic operation</li>
-            <li>Global synchronous-logic interfacing</li>
-            <li>Inherently resistant to fault attack + reverse engineering</li>
-            <li>FPGA/ASIC implementation (soft IP and/or hard IP available)</li>
-            <li>Test data available</li>
-         </ul>
-      </div>
-   </div>
-</div>
 <br>
-<hr class="seperator">
+<p class="temp01_title">KEY FEATURES</p>
+
+
+
+<div class="lnd_checks">
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Dual-Hiding (+ Masking) countermeasure</p>
+</div>
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Inner asynchronous-logic operation</p>
+</div>
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Global synchronous-logic interfacing</p>
+</div>
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Inherently resistant to fault attack + reverse engineering</p>
+</div>
+
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> FPGA/ASIC implementation (soft IP and/or hard IP available)</p>
+</div>
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Test data available</p>
+</div>
+
+</div>
+
+
+
 <br>
 <a id="second"></a>
-<h3>(2) Reverse Engineering Resistant Camouflage Cells IPs</h3>
-
+<h4 class="lnd_h4"> Reverse Engineering Resistant Camouflage Cells IPs </h4>
 To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Library Cells</strong> with look-
 alike cell layout for high valued IP protection.
 
-<div class="container">
-<div class="row">
-<div class="col">
-   <h4><strong>Key Features</strong></h4>
-   <ul>
-      <li>Patent-pending camouflage cell technique</li>
-      <li>Invulnerable against IC delayering</li>
-      <li>Scalable to any CMOS process technology nodes</li>
-      <li>Compatible to standard IC design flows</li>
-      <li>Low power, area, speed overhead</li>
-   </ul>
+<br>
+<p class="temp01_title">KEY FEATURES</p>
+
+<div class="lnd_checks">
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Patent-pending camouflage cell technique</p>
 </div>
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Invulnerable against IC delayering</p>
+</div>
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Scalable to any CMOS process technology nodes</p>
+</div>
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Compatible to standard IC design flows</p>
+</div>
+
+
+<div class="lnd_check_wrap">
+<img class="check-icon" src="/assets/common/check.svg" width="55">
+<p class="lnd_paragraph_02"> Low power, area, speed overhead</p>
+</div>
+
+</div>
+
