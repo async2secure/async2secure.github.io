@@ -3,16 +3,13 @@ layout: page
 permalink: /products/security_ips
 ---
 
-<div>
-    <content>
-    </content>
-</div>
-<div>
-    <content>
-    </content>
-</div>
 
-# Security IPs
+
+<div class="hero--small2">
+   <div class="hero__wrap">
+      <h1 class="hero__title">Security IPs</h1>
+   </div>
+</div>
 
 <br>
 <a id="first"></a>
@@ -25,7 +22,7 @@ We offer two Security Design IPs as follows:
 
 <br>
 
-<h4 class="lnd_h4"> Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs </h4>
+### Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs
 
 To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.
 
@@ -71,7 +68,7 @@ To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA
 
 <br>
 <a id="second"></a>
-<h4 class="lnd_h4"> Reverse Engineering Resistant Camouflage Cells IPs </h4>
+### Reverse Engineering Resistant Camouflage Cells IPs
 To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Library Cells</strong> with look-
 alike cell layout for high valued IP protection.
 
