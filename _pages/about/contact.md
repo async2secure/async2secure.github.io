@@ -3,31 +3,38 @@ layout: page
 permalink: /about/contact
 ---
 
-<div>
-    <content>
-    </content>
+<div class="hero--about">
+   <div class="hero__wrap">
+      <h1 class="hero__title">Contact</h1>
+   </div>
 </div>
-<div>
-    <content>
-    </content>
-</div>
+<br>
+<article class="new">
 
-For general enquiries,
+<p>For general enquiries,</p>
 
-kindly email to <strong class="c1">Joey Kee</strong>: <u>contact@async2secure.com</u>
+<p>kindly email to <strong class="c1">Joey Kee</strong>: <u>contact@async2secure.com</u></p>
+<br>
+<br>
+<p>For more information about our Products & Services,
 
-For more information about our Products & Services,
+kindly ask from our technical contacts:</p>
 
-kindly ask from our technical contacts:
-
-1. <strong class="c1">Bah-Hwee Gwee</strong>: <u>ebhgwee@async2secure.com</u>
-2. <strong class="c1">Kwen-Siong Chong</strong>: <u>kschong@async2secure.com</u>
+   <ul style="list-style-type:none; padding-left: 0;">
+      <li> <p><strong class="c1">Bah-Hwee Gwee</strong>: <u>ebhgwee@async2secure.com</u></p></li>
+      <li> <p><strong class="c1">Kwen-Siong Chong</strong>: <u>kschong@async2secure.com</u></p></li>
+   </ul>
 
 <pre>  
+<p>
 Our company address:
 
 <strong>Async2Secure Pte Ltd</strong>
 TCH TechCentre #05-07,
 71 Toh Guan Road East
 Singapore 608596.
+</p>
 </pre>
+
+
+</article>

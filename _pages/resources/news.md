@@ -3,9 +3,16 @@ layout: page
 permalink: /resources/news
 ---
 
+<div class="hero--resources">
+   <div class="hero__wrap">
+      <h1 class="hero__title">News</h1>
+   </div>
+</div>
 <br>
-<br>
-<br>
-<br>
+<article class="new">
 
-### News(underconstruction)
+<h4>News(underconstruction)</h4>
+
+</article>
+
+
