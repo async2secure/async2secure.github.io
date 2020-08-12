@@ -12,6 +12,24 @@ permalink: /products/security_ips
 <article class="new">
 <a id="first"></a>
 <p>We offer two Security Design IPs as follows:</p>
+
+ <style>
+.vl {
+  border-left: 20px solid #ff931e;
+  padding-left: 10px;
+  /* height: 500px; */
+}
+
+hr.solid {
+   padding-top: 20px;
+   padding-bottom: 20px;
+  border-top: 1px solid #bbb;
+}
+
+</style>
+
+
+
 <ul style="list-style-type:none; padding-left: 0;">
    <li>(1) <a class="link" href="#first">Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</a></li>
    <li>(2) <a class="link" href="#second">Reverse Engineering Resistant Camouflage Cells IPs</a></li>
@@ -21,7 +39,8 @@ permalink: /products/security_ips
 <h4>Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</h4>
 <p>To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.</p>
 <br>
-<p class="temp01_title">KEY FEATURES</p>
+<div class="vl">
+<p class="temp01_title">Key Features</p></div>
 <div class="lnd_checks">
    <div class="lnd_check_wrap">
       <img class="check-icon" src="/assets/common/check.svg" width="55">
@@ -49,6 +68,7 @@ permalink: /products/security_ips
    </div>
 </div>
 <br>
+<hr class="solid">
 <a id="second"></a>
 <h4> Reverse Engineering Resistant Camouflage Cells IPs</h4>
 <p>To mitigate the Reverse Engineering on ASICs, we offer <strong>Camouflage Library Cells</strong> with look-
