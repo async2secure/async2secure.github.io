@@ -19,7 +19,7 @@ permalink: /products/security_ips
 <a id="first"></a>
 <br>
 <h4>Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</h4>
-To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.
+<p>To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.</p>
 <br>
 <p class="temp01_title">KEY FEATURES</p>
 <div class="lnd_checks">
@@ -78,5 +78,4 @@ To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA
       <p class="lnd_paragraph_02"> Low power, area, speed overhead</p>
    </div>
 </div>
-</
 <article>
