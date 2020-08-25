@@ -3,6 +3,14 @@ layout: page
 permalink: /about
 ---
 
+<div class="hero--about">
+   <div class="hero__wrap">
+      <h1 class="hero__title">About Us</h1>
+   </div>
+</div>
+<br>
+<article class="new">
+
 <div>
     <content>
     </content>
@@ -12,20 +20,10 @@ permalink: /about
     </content>
 </div>
 
-# About Us
+<h4>About Us</h4>
 
-Check <strong>About Us</strong> to know our background and contact information
+<p>Check <strong>About Us</strong> to know our background and contact information</p>
 
-<strong>Leadership</strong>
-
-- Bah-Hwee Gwee
-- Kwen-Siong Chong
-
-<strong>Contact Us</strong>
-
-- General Enquiries
-- Technical Contacts
-- Company Location
 
 <br>
 <br>
@@ -38,6 +36,10 @@ Check <strong>About Us</strong> to know our background and contact information
         <img class="mx-auto d-block image" src="/assets/home/leadership.png" style="width:105px;height:105px;">
         <p class="text-center"> Leadership</p>
     </a>
+        <ul>
+               <li>Bah-Hwee Gwee</li>
+               <li>Kwen-Siong Chong</li>
+            </ul>
 </div>
 
 <div class="col-sm">
@@ -51,7 +53,13 @@ Check <strong>About Us</strong> to know our background and contact information
         <img class="mx-auto d-block image" src="/assets/home/contact_us.png" style="width:105px;height:105px;transform:rotate(180deg);">
         <p class="text-center"> Contact Us</p>
     </a>
+        <ul>
+               <li>General Enquiries</li>
+               <li>Technical Contacts</li>
+               <li>Company Location</li>
+            </ul>
 </div>
 
 </div>
 </div>
+</article>

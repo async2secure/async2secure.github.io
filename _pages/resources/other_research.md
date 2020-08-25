@@ -3,22 +3,20 @@ layout: page
 permalink: /resources/other_research
 ---
 
-<div>
-<content>
-</content>
-</div>
-<div>
-<content>
-</content>
-</div>
 
-# Other Research
+<div class="hero--resources">
+   <div class="hero__wrap">
+      <h1 class="hero__title">Other Research</h1>
+   </div>
+</div>
+<br>
+<article class="new">
 
-Some of the earlier research works of the research team include a 16-channel digital filer bank
+<p>Some of the earlier research works of the research team include a 16-channel digital filer bank
 design for hearing aid applications, low-distortion Class-D and digital signal processors. The
 research emphases are on low power and/or low noise implementations for portable
 electronics including hearing aids. For more information, please click on the links to access
-the research publications of these works.
+the research publications of these works.</p>
 
 <div class="container">
     <div class="row">
@@ -47,3 +45,4 @@ the research publications of these works.
         </div>
     </div>
 </div>
+</article>
