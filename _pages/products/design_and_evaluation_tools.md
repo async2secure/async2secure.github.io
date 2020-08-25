@@ -114,6 +114,11 @@ permalink: /products/tools
    <i class="fa fa-file-pdf-o" aria-hidden="true" style="font-size:24px;"></i> Brochure for the SCA evaluation platform</a>
    <br>
    <br>
+   <a class="btn btn-brochure" href="/assets/products/evaluation/FPGA Evaluation Boards for Side-Channel-Attack (SCA).pdf">
+   <i class="fa fa-file-pdf-o" aria-hidden="true" style="font-size:24px;"></i> Brochure for the FPGA Evaluation Boards</a>
+
+   <br>
+   <br>
    <br>
    <h3> Camouflage Design/Analysis Tool</h3>
    <p>To mitigate Reverse Engineering on ASICs, we offer <strong>Camouflage Design/Analysis Tool</strong> to

@@ -39,8 +39,8 @@ hr.solid {
 <h4>Side-Channel Attack Resistant Advanced Encryption Standard (AES) IPs</h4>
 <p>To mitigate Side-Channel Attacks (SCAs) on ASICs and FPGAs, we offer <strong>SCA-Resistant AES design IP</strong> with dual-hiding and asynchronous-logic countermeasures for highly secure data encryption. We also offer AES designs with additional masking countermeasures that provide added SCA protection for data encryption.</p>
 <br>
-<div class="vl">
-<p class="temp01_title">Key Features</p></div>
+
+<p class="temp01_title">KEY FEATURES</p>
 <div class="lnd_checks">
    <div class="lnd_check_wrap">
       <img class="check-icon" src="/assets/common/check.svg" width="55">
