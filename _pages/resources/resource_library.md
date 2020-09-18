@@ -11,7 +11,6 @@ permalink: /resources/resource_library
 <br>
 <article class="new">
 <a id="first"></a>
-<h4>Resource Library</h4>
 <p>This page consists of all downloadable files for our products and services as follows:</p>
    <ul style="list-style-type:none; padding-left: 0;">
       <li>(1) <a class="link" href="#first">Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards</a></li>
@@ -38,8 +37,8 @@ permalink: /resources/resource_library
          <td>Sept 10, 2020</td>
       </tr>
       <tr>
-         <th scope="row"> <a href="/assets/resources/AES_ARTY_TOP_A735.zip">
-            <i class="fa fa-file-archive-o" aria-hidden="true" style="font-size:24px;"></i> AES sample bit file and AES project file for the Arty evaluation board</a>
+         <th scope="row"> 
+            <i class="fa fa-file-archive-o" aria-hidden="true" style="font-size:24px;"></i> AES sample bit file and AES project file for the Arty evaluation board
          </th>
          <td>Bit File</td>
          <td>Sept 10, 2020</td>
