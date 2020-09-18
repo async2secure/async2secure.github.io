@@ -57,7 +57,7 @@ permalink: /products/tools
                </div>
                <div class="lnd_check_wrap">
                   <img class="check-icon" src="/assets/common/check.svg" width="55">
-                  <p class="lnd_paragraph_02"> Applicable to both simulation & measurement data)</p>
+                  <p class="lnd_paragraph_02"> Applicable to both simulation & measurement data</p>
                </div>
                <div class="lnd_check_wrap">
                   <img class="check-icon" src="/assets/common/check.svg" width="55">
