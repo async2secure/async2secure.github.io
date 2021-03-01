@@ -110,7 +110,7 @@ permalink: /products/tools
    <br>
    <a id="second"></a>
    <p>For more information, please download our product brochures as follows.</p>
-   <a class="btn btn-brochure" href="/assets/products/evaluation/SCA Platform Brochure_v3 09072020.pdf">
+   <a class="btn btn-brochure" href="/assets/products/evaluation/SCA Platform Brochure.pdf">
    <i class="fa fa-file-pdf-o" aria-hidden="true" style="font-size:24px;"></i> Brochure for the SCA Evaluation Platform</a>
    <br>
    <br>
