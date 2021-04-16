@@ -3,6 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<!-- SEO -->
+<title>Async2Secure</title>
+<meta name="description" content="Async2Secure is dedicated to offer solutions to address today’s critical hardware security issues for Integrated Circuits (ICs) and Field Programmable Gate Arrays (FPGAs)." />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.async2secure.com/" />
+<!-- END OF SEO -->
 <section id="content">
 <br>
 <br>
