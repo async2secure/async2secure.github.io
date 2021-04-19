@@ -1,16 +1,10 @@
 ---
 layout: page
 permalink: /services/design
+share-title: Design Solutions - Async2Secure
+share-description: We offer Customised Cipher Design Solutions and Customised Camouflage IC Design Solutions.
+id: /services/design
 ---
-
-<!-- SEO -->
-<title>Design Solutions - Async2Secure</title>
-<meta name="description" content="We offer Customised Cipher Design Solutions and Customised Camouflage IC Design Solutions." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/services/design/" />
-<!-- END OF SEO -->
 
 <div class="hero--small">
    <div class="hero__wrap">

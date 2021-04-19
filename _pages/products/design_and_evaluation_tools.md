@@ -1,16 +1,10 @@
 ---
 layout: page
 permalink: /products/tools
+share-title: Design and Analysis Tools - Async2Secure
+share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards and Camouflage Design/Analysis Tool.
 ---
 
-<!-- SEO -->
-<title>Design and Analysis Tools - Async2Secure</title>
-<meta name="description" content="We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards and Camouflage Design/Analysis Tool." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/products/tools" />
-<!-- END OF SEO -->
 <div class="hero--small">
    <div class="hero__wrap">
       <h1 class="hero__title">Design and Analysis Tools</h1>

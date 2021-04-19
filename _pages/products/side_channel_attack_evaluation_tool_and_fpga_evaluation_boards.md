@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /products/tools/side_channel_attack_evaluation_tool_and_fpga_evaluation_boards
+share-title: Design and Analysis Tools - Async2Secure
+share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards and Camouflage Design/Analysis Tool.
 ---
 
 <!-- SEO -->

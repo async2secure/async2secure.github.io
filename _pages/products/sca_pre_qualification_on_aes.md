@@ -1,16 +1,9 @@
 ---
 layout: page
 permalink: /services/evaluation/sca_pre_qualification_on_aes
+share-title: Side-Channel Attack Pre-Qualification on AES - Async2Secure
+share-description: We provide SCA Evaluation Services to pre-qualify the security level of AES designs.
 ---
-
-<!-- SEO -->
-<title>Side-Channel Attack Pre-Qualification on AES - Async2Secure</title>
-<meta name="description" content="We provide Side-Channel Attack Evaluation Services to pre-qualify the security level of AES designs." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/services/evaluation/sca_pre_qualification_on_aes" />
-<!-- END OF SEO -->
 
 <div class="hero--small">
    <div class="hero__wrap">

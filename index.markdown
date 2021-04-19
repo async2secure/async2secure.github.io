@@ -1,30 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+share-title: Asynchronous | Security Solutions - Async2Secure
+share-description: Async2Secure specializes in esoteric asynchronous-logic designs and side-channel-attack (SCA) evaluation solutions for ICs/FPGAs
+id: www.async2secure.com
 ---
 
-<!-- SEO -->
-<title>Asynchronous | Security Solutions - Async2Secure</title>
-<meta name="description" content="Async2Secure specializes in esoteric asynchronous-logic designs and side-channel-attack (SCA) evaluation solutions for ICs/FPGAs" />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/" />
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.async2secure.com">
-<meta property="og:site_name" content="Async2Secure" />
-<meta property="og:type" content="website">
-<meta property="og:title" content="Asynchronous | Security Solutions - Async2Secure">
-<meta property="og:description" content="Async2Secure specializes in esoteric asynchronous-logic designs and side-channel-attack (SCA) evaluation solutions for ICs/FPGAs">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="Async2secure">
-<meta property="twitter:url" content="https://www.async2secure.com">
-<meta name="twitter:title" content="Asynchronous | Security Solutions - Async2Secure">
-<meta name="twitter:description" content="Async2Secure specializes in esoteric asynchronous-logic designs and side-channel-attack (SCA) evaluation solutions for ICs/FPGAs">
-<!-- END OF SEO -->
 <section id="content">
 <br>
 <br>
