@@ -1,16 +1,10 @@
 ---
 layout: page
 permalink: /services/design/customised_camouflage_ic_design_solutions
+share-title: Customised Camouflage IC Design Solutions - Async2Secure
+share-description: We provide Camouflage Design Solutions for camouflaged ICs with high resistance to reverse engineering based on customer-defined specifications/applications.
 ---
 
-<!-- SEO -->
-<title>Customised Camouflage IC Design Solutions - Async2Secure</title>
-<meta name="description" content="We provide Camouflage Design Solutions for camouflaged ICs with high resistance to reverse engineering based on customer-defined specifications/applications." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/services/design/customised_camouflage_ic_design_solutions" />
-<!-- END OF SEO -->
 <div class="hero--small">
    <div class="hero__wrap">
       <h1 class="hero__title">Design Solutions</h1>

@@ -1,16 +1,10 @@
 ---
 layout: page
 permalink: /products/tools/camouflage_design_analysis_tool
+share-title: Camouflage Design/Analysis Tool - Async2Secure
+share-description: We offer Camouflage Design/Analysis Tool to provide camouflage cells replacement in a netlist and to analyse the security level of the camouflaged netlist.
 ---
 
-<!-- SEO -->
-<title>Camouflage Design/Analysis Tool - Async2Secure</title>
-<meta name="description" content="We offer Camouflage Design/Analysis Tool to provide camouflage cells replacement in a netlist and to analyse the security level of the camouflaged netlist." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/products/tools/camouflage_design_analysis_tool" />
-<!-- END OF SEO -->
 <div class="hero--small">
    <div class="hero__wrap">
       <h1 class="hero__title">Design and Analysis Tools</h1>
