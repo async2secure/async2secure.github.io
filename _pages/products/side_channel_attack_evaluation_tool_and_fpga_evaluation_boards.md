@@ -5,14 +5,6 @@ share-title: Design and Analysis Tools - Async2Secure
 share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards and Camouflage Design/Analysis Tool.
 ---
 
-<!-- SEO -->
-<title>Design and Analysis Tools - Async2Secure</title>
-<meta name="description" content="We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards and Camouflage Design/Analysis Tool." />
-<meta name="robots" content="index, follow" />
-<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<link rel="canonical" href="https://www.async2secure.com/products/tools" />
-<!-- END OF SEO -->
 <div class="hero--small">
    <div class="hero__wrap">
       <h1 class="hero__title">Design and Analysis Tools</h1>
@@ -27,7 +19,7 @@ share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Eva
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <article class="new">
    <br>
-   <h3>Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards</h3>
+   <h3>Side-Channel Analysis Software</h3>
    <p>
       To perform efficient SCA evaluations on Advanced Encryption Standard (AES) designs on the basis of simulations or measurements, we offer a user-friendly <strong>SCA Evaluation Tool</strong>. FPGA evaluation boards are available for AES implementations and their SCA evaluations.
    </p>
