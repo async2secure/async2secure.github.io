@@ -32,9 +32,8 @@ Our company address:
 <strong>Async2Secure Pte Ltd</strong>
 TCH TechCentre #05-07,
 71 Toh Guan Road East
-Singapore 608596.
+Singapore 608598.
 </p>
 </pre>
-
 
 </article>
