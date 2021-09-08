@@ -28,7 +28,7 @@ permalink: /resources
 
 <div class="col">
     <a href="{{ site.baseurl }}{% link _pages/resources/technology.md %}" class="link-block">
-        <img class="mx-auto d-block image" src="/assets/resources/image--0121.png" style="width:105px;height:105px;transform:rotate(180deg);">
+        <img class="mx-auto d-block image" src="/assets/resources/image--0121.png" style="width:105px;height:105px;">
         <p class="text-center"> Our Technologies</p>
     </a>
            <ul>
@@ -48,7 +48,7 @@ permalink: /resources
 
 <div class="col">
     <a href="{{ site.baseurl }}{% link _pages/resources/resource_library.md %}" class="link-block">
-        <img class="mx-auto d-block image" src="/assets/resources/image--044.png" style="width:105px;height:105px;transform:rotate(90deg);">
+        <img class="mx-auto d-block image" src="/assets/resources/image--044.png" style="width:105px;height:105px;">
         <p class="text-center"> Resource Library</p>
     </a>
 </div>

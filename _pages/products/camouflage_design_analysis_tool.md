@@ -16,7 +16,7 @@ share-description: We offer Camouflage Design/Analysis Tool to provide camouflag
 <div>
    <content></content>
 </div>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <article class="new">
    <br>
    <h3> Camouflage Design/Analysis Tool</h3>
@@ -52,4 +52,9 @@ share-description: We offer Camouflage Design/Analysis Tool to provide camouflag
          <p class="lnd_paragraph_02"> Technical support available</p>
       </div>
    </div>
+
+<br>
+<br>
+<p> <i class="fa fa-drafting-compass" style="font-size:24px;color:orange;"></i>  Coming soon. <a class="link" style="font-size:20px" href="{{ site.baseurl }}{% link _pages/about/contact.md %}">Contact Us</a> to know more.
+</p>
 </article>

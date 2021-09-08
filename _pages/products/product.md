@@ -20,7 +20,7 @@ id: /products
       <div class="row">
          <div class="col">
             <a href="{{ site.baseurl }}{% link _pages/products/security_design_ips.md %}" class="link-block">
-               <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;transform:rotate(180deg);">
+               <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;">
                <p class="text-center"> Security Design IPs</p>
             </a>
             <ul>
