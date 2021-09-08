@@ -22,7 +22,6 @@ kindly ask from our technical contacts:</p>
 
    <ul style="list-style-type:none; padding-left: 0;">
       <li> <p><strong class="c1">Bah-Hwee Gwee</strong>: <u>ebhgwee@async2secure.com</u></p></li>
-      <li> <p><strong class="c1">Kwen-Siong Chong</strong>: <u>kschong@async2secure.com</u></p></li>
    </ul>
 
 <pre>  
