@@ -32,13 +32,13 @@ permalink: /about
          </div>
          <div class="col-sm">
             <a href="{{ site.baseurl }}{% link _pages/about/opportunities.md %}" class="link-block">
-               <img class="mx-auto d-block image" src="/assets/home/opportunities.png" style="width:105px;height:105px;transform:rotate(180deg);">
+               <img class="mx-auto d-block image" src="/assets/home/opportunities.png" style="width:105px;height:105px;">
                <p class="text-center"> Opportunities</p>
             </a>
          </div>
          <div class="col-sm">
             <a href="{{ site.baseurl }}{% link _pages/about/contact.md %}" class="link-block">
-               <img class="mx-auto d-block image" src="/assets/home/contact_us.png" style="width:105px;height:105px;transform:rotate(180deg);">
+               <img class="mx-auto d-block image" src="/assets/home/contact_us.png" style="width:105px;height:105px;">
                <p class="text-center"> Contact Us</p>
             </a>
             <ul>

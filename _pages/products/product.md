@@ -20,7 +20,7 @@ id: /products
       <div class="row">
          <div class="col">
             <a href="{{ site.baseurl }}{% link _pages/products/security_design_ips.md %}" class="link-block">
-               <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;transform:rotate(180deg);">
+               <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;">
                <p class="text-center"> Security Design IPs</p>
             </a>
             <ul>
@@ -39,8 +39,9 @@ id: /products
                <li>Camouflage Design/Analysis Tool</li>
                <li>Asynchronous-logic Design Tool</li>
             </ul>
+          
          </div>
-         <div class="col">
+         <!-- <div class="col">
             <a href="{{ site.baseurl }}{% link _pages/products/design_solution.md %}" class="link-block">
                <img class="mx-auto d-block image" src="/assets/home/design_evaluation_sevices.png" style="width:105px;height:105px;">
                <p class="text-center"> Design & Evaluation Services</p>
@@ -50,8 +51,8 @@ id: /products
                <li>Other Value Added Ciphers</li>
                <li>Camouflage Design Solutions</li>
             </ul>
-         </div>
-         <div class="col">
+         </div> -->
+         <!-- <div class="col">
             <a href="{{ site.baseurl }}{% link _pages/products/security_evaluation.md %}" class="link-block">
                <img class="mx-auto d-block image" src="/assets/home/side_channel_attacks.png" style="width:105px;height:105px;">
                <p class="text-center"> Security Evaluation</p>
@@ -59,7 +60,7 @@ id: /products
             <ul>
                <li>SCA Evaluation Services</li>
             </ul>
-         </div>
+         </div> -->
       </div>
    </div>
 </article>

@@ -59,4 +59,6 @@ share-description: We offer Camouflage Library Cells with look- alike cell layou
    </div>
 </div>
 <br>
+<p> <i class="fa fa-drafting-compass" style="font-size:24px;color:orange;"></i>  Coming soon. <a class="link" style="font-size:20px" href="{{ site.baseurl }}{% link _pages/about/contact.md %}">Contact Us</a> to know more.
+</p>
 <article>

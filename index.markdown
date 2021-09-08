@@ -43,7 +43,7 @@ id: www.async2secure.com
          <div class="row">
             <div class="col-sm ">
                <a href="{{ site.baseurl }}{% link _pages/products/security_design_ips.md %}" class="link-block">
-                  <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;transform:rotate(180deg);">
+                  <img class="mx-auto d-block image" src="/assets/home/security_design_ips.png" style="width:105px;height:105px;">
                   <p class="text-center"> Security Design IPs
                   </p>
                </a>
@@ -55,7 +55,7 @@ id: www.async2secure.com
                   </p>
                </a>
             </div>
-            <div class="col-sm">
+            <!-- <div class="col-sm">
                <a href="{{ site.baseurl }}{% link _pages/products/design_solution.md %}" class="link-block">
                   <img class="mx-auto d-block image" src="/assets/home/design_evaluation_sevices.png" style="width:105px;height:105px;">
                   <p class="text-center"> Design & Evaluation Services</p>
@@ -66,7 +66,7 @@ id: www.async2secure.com
                   <img class="mx-auto d-block image" src="/assets/home/side_channel_attacks.png" style="width:105px;height:105px;">
                   <p class="text-center"> Security Evaluation</p>
                </a>
-            </div>
+            </div> -->
          </div>
          <hr class="new1">
          <p>To understand more about Hardware Security,check out more information from our <a href="{{ site.baseurl }}{% link _pages/resources/resources.md %}">Resources</a>.</p>
@@ -75,7 +75,7 @@ id: www.async2secure.com
          <div class="row">
             <div class="col">
                <a href="{{ site.baseurl }}{% link _pages/resources/technology.md %}" class="link-block">
-                  <img class="mx-auto d-block image" src="/assets/resources/image--0121.png" style="width:105px;height:105px;transform:rotate(180deg);">
+                  <img class="mx-auto d-block image" src="/assets/resources/image--0121.png" style="width:105px;height:105px;">
                   <p class="text-center"> Our Technologies
                   </p>
                </a>
@@ -89,16 +89,16 @@ id: www.async2secure.com
             </div>
             <div class="col">
                <a href="{{ site.baseurl }}{% link _pages/resources/resource_library.md %}" class="link-block">
-                  <img class="mx-auto d-block image" src="/assets/resources/image--044.png" style="width:105px;height:105px;transform:rotate(90deg);">
+                  <img class="mx-auto d-block image" src="/assets/resources/image--044.png" style="width:105px;height:105px;">
                   <p class="text-center"> Resource Library</p>
                </a>
             </div>
-            <div class="col">
+            <!-- <div class="col">
                <a href="{{ site.baseurl }}{% link _pages/resources/other_research.md %}" class="link-block">
                   <img class="mx-auto d-block image" src="/assets/resources/image--043.png" style="width:105px;height:105px;transform:rotate(180deg);">
                   <p class="text-center"> Other Research</p>
                </a>
-            </div>
+            </div> -->
          </div>
          <br>
          <hr class="new2">
@@ -115,13 +115,13 @@ id: www.async2secure.com
             </div>
             <div class="col-sm">
                <a href="{{ site.baseurl }}{% link _pages/about/opportunities.md %}" class="link-block">
-                  <img class="mx-auto d-block image" src="/assets/home/opportunities.png" style="width:105px;height:105px;transform:rotate(180deg);">
+                  <img class="mx-auto d-block image" src="/assets/home/opportunities.png" style="width:105px;height:105px;">
                   <p class="text-center"> Opportunities</p>
                </a>
             </div>
             <div class="col-sm">
                <a href="{{ site.baseurl }}{% link _pages/about/contact.md %}" class="link-block">
-                  <img class="mx-auto d-block image" src="/assets/home/contact_us.png" style="width:105px;height:105px;transform:rotate(180deg);">
+                  <img class="mx-auto d-block image" src="/assets/home/contact_us.png" style="width:105px;height:105px;">
                   <p class="text-center"> Contact Us</p>
                </a>
             </div>

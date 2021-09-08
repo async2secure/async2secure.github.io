@@ -24,11 +24,11 @@ share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Eva
    <div class="card-deck">
       <div class="card" style="min-width: 18rem; ">
          <div class="card-body">
-            <h5 class="card-title">Side-Channel Attack (SCA) Evaluation Tool & FPGA Evaluation Boards</h5>
-            <p class="card-text">To perform efficient SCA evaluations on Advanced Encryption Standard (AES) designs, we offer a user-friendly SCA Evaluation Tool and FPGA evaluation boards. </p>
+            <h5 class="card-title">Side-Channel Analysis Software</h5>
+            <p class="card-text">To perform efficient SCA evaluations on Advanced Encryption Standard (AES) designs, we offer a user-friendly SCA Software Tool </p>
          </div>
          <div class="card-footer border-0">
-            <a class="link" href="{{ site.baseurl }}{% link _pages/products/side_channel_attack_evaluation_tool_and_fpga_evaluation_boards.md %}">Learn more</a>
+            <a class="link" href="{{ site.baseurl }}{% link _pages/products/side_channel_analysis_software.md %}">Learn more</a>
          </div>
       </div>
       <div class="card" style="min-width: 18rem; ">
