@@ -404,7 +404,7 @@ share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Eva
 
    <h3>Side-Channel Analysis Software</h3>
    <br>
-   <p>Our   side-channel analysis (SCA) software tool can easily  quantify   and   qualify   an   Advanced   EncryptionStandard   (AES)   hardware   from   side-channel leakages such as power and electromagnetic (EM) parameters. It is part of the <a class="link"  style="font-size:20px" href="{{ site.baseurl }}{% link _pages/products/side_channel_attack_evaluation_package.md %}">Side-Channel Evaluation Packages</a> we offer together with a wide range of commercially available <a class="link"  style="font-size:20px" href="{{ site.baseurl }}{% link _pages/products/fpga_evaluation_boards.md %}">FPAGA Evaluation Boards</a>  and support tools.</p>
+   <p>Our side-channel analysis (SCA) software tool can easily  quantify   and   qualify   an   Advanced   EncryptionStandard   (AES)   hardware   from   side-channel leakages such as power and electromagnetic (EM) parameters. It is part of the <a class="link"  style="font-size:20px" href="{{ site.baseurl }}{% link _pages/products/side_channel_attack_evaluation_package.md %}">Side-Channel Attack Stater Kit</a> we offer together with a wide range of commercially available <a class="link"  style="font-size:20px" href="{{ site.baseurl }}{% link _pages/products/fpga_evaluation_boards.md %}">FPGA Evaluation Boards</a>  and support tools.</p>
    <br>
      <br>
 
@@ -482,7 +482,7 @@ share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Eva
       </div>
    </div>
    <h3> Feature Packages </h3>
-<p>We offer three different packages, as depicted in Table II, for different users. The basic package is mainly for students/beginners to learn the principle/concepts of SCA. The advanced packageis mainly for users who would like to have relatively comprehensive SCA evaluations on their hardware for pre-qualification. The professional package is mainly for users who would like to have all-rounded SCA evaluations on their hardware for complete pre-qualification.</p>
+<p>We offer three different packages, as depicted in table below, for different users. The basic package is mainly for students/beginners to learn the principle/concepts of SCA. The advanced packageis mainly for users who would like to have relatively comprehensive SCA evaluations on their hardware for pre-qualification. The professional package is mainly for users who would like to have all-rounded SCA evaluations on their hardware for complete pre-qualification.</p>
 
  <div id="generic_price_table">
       <section>
@@ -524,7 +524,7 @@ share-description: We offer Side-Channel Attack (SCA) Evaluation Tool & FPGA Eva
                      <!--FEATURE LIST START-->
                      <div class="generic_feature_list">
                         <ul>
-                           <li><span>Suitable for Students/Begineers</span> </li>
+                           <li><span>Suitable for Students/Beginners</span> </li>
                         </ul>
                      </div>
                      <!--//FEATURE LIST END-->

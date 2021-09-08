@@ -27,24 +27,20 @@ font-size: 20px;
 
 <article class="new">
    <br>
-   <h3>Side-Channel Attack (SCA) Evaluation Package</h3>
+   <h3>Side-Channel Attack (SCA) Starter Kit</h3>
    <br>
       <br>
-<p>We offer three different packages, as depicted in table below, for different users. The basic package is mainly for students/beginners to learn the principle/concepts of SCA. The advanced packageis mainly for users who would like to have relatively comprehensive SCA evaluations on their hardware for pre-qualification. The professional package is mainly for users who would like to have all-rounded SCA evaluations on their hardware for complete pre-qualification.</p>
+<p>We offer a Side-Channel Attack (SCA) starter kit, enabling users to quickly evaluate the SCA results.  Perspective users could levarage on the SCA starter kit to evaluate their own encryption design or to understand the effects of SCA.  The SCA start kit includes:
 
-<h3>Configure Your Package</h3>
+</p>
 
 <ol>
-  <li class="big">Choose feature of <a class="link" style="font-size:20px"  href="{{ site.baseurl }}{% link _pages/products/side_channel_analysis_software.md %}">Side-Channel Analysis Software</a></li>
-      <ul>
-      <li class="big">  Basic</li>
-       <li class="big">  Advanced</li>
-       <li class="big">  Professional</li>
-    </ul>
-  <li class="big">Choose an evaluation board from <a class="link" style="font-size:20px"  href="{{ site.baseurl }}{% link _pages/products/fpga_evaluation_boards.md %}">Evaluation FPGA Board List</a>
+  <li class="big"> FPGA Board (choose the applicable board from <a class="link" style="font-size:20px"  href="{{ site.baseurl }}{% link _pages/products/fpga_evaluation_boards.md %}">here</a>)
   </li>
+  <li class="big">Side-Channel Analysis Software (choose the package from <a class="link" style="font-size:20px"  href="{{ site.baseurl }}{% link _pages/products/side_channel_analysis_software.md %}">here</a>)</li>
+
   <li class="big">EM Probe Set and High Gain Amplifer Set</li>
-  <li class="big">Support</li>
+  <li class="big">Built-in interface program and accessories</li>
 </ol>
 
 <a id="first"></a>
