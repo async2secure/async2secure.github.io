@@ -20,7 +20,6 @@ permalink: /resources
 <article class="new">
 <h4>Our Resources:</h4>
 
-
 <br>
 <br>
 
@@ -54,7 +53,7 @@ permalink: /resources
     </a>
 </div>
 
-<div class="col">
+<!-- <div class="col">
     <a href="{{ site.baseurl }}{% link _pages/resources/other_research.md %}" class="link-block">
         <img class="mx-auto d-block image" src="/assets/resources/image--043.png" style="width:105px;height:105px;transform:rotate(180deg);">
         <p class="text-center"> Other Research</p>
@@ -66,7 +65,7 @@ permalink: /resources
 </li>
             </ul>
 
-</div>
+</div> -->
 
 </div>
 </div>
