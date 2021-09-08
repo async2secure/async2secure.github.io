@@ -55,7 +55,7 @@ id: www.async2secure.com
                   </p>
                </a>
             </div>
-            <div class="col-sm">
+            <!-- <div class="col-sm">
                <a href="{{ site.baseurl }}{% link _pages/products/design_solution.md %}" class="link-block">
                   <img class="mx-auto d-block image" src="/assets/home/design_evaluation_sevices.png" style="width:105px;height:105px;">
                   <p class="text-center"> Design & Evaluation Services</p>
@@ -66,7 +66,7 @@ id: www.async2secure.com
                   <img class="mx-auto d-block image" src="/assets/home/side_channel_attacks.png" style="width:105px;height:105px;">
                   <p class="text-center"> Security Evaluation</p>
                </a>
-            </div>
+            </div> -->
          </div>
          <hr class="new1">
          <p>To understand more about Hardware Security,check out more information from our <a href="{{ site.baseurl }}{% link _pages/resources/resources.md %}">Resources</a>.</p>
