@@ -34,7 +34,7 @@ permalink: /resources/resource_library
             <i class="fa fa-file-pdf-o" aria-hidden="true" style="font-size:24px;"></i> Side Channel Attack (SCA) Toolkit Quick-Start Guide</a>
          </th>
          <td>PDF</td>
-         <td>Sept 10, 2020</td>
+         <td>Oct 30, 2024</td>
       </tr>
       <tr>
          <th scope="row"> 
@@ -44,10 +44,10 @@ permalink: /resources/resource_library
          <td>Sept 10, 2020</td>
       </tr>
       <tr>
-         <th scope="row"><a href="/assets/resources/FPGA_serial_sender.zip">
+         <th scope="row"><a href="https://storage.googleapis.com/async2secure/aes_data_communicator/aes_data_communicator_1.2.1.exe">
             <i class="fa fa-file-archive-o" aria-hidden="true" style="font-size:24px;"></i>  AES Sender/Checker Program for the Arty evaluation board (Windows)</a></th>
          <td>Executable File</td>
-         <td>Sept 10, 2020</td>
+         <td>Oct 30, 2024</td>
       </tr>
    </tbody>
 </table>
